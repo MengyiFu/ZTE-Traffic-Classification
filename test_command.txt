@@ -3,7 +3,7 @@
 cd /home/fmy/Documents/2023ZTE/ksniffer/glow/
 /home/fmy/Documents/2023ZTE/ksniffer/glow/njupt -P -n -t -D -l 12345 >> /home/fmy/Documents/2023ZTE/extractinput/raspberrypi_csv/raw.csv
 
-xinjianzhongduan:
+新建终端：
 
 telnet 192.168.100.1
 root
